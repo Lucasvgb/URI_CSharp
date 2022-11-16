@@ -1,0 +1,8 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\bin\Debug\uri_1014.exe.config
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\bin\Debug\uri_1014.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\bin\Debug\uri_1014.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\obj\Debug\uri_1014.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\obj\Debug\uri_1014.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\obj\Debug\uri_1014.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\obj\Debug\uri_1014.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1014\uri_1014\uri_1014\obj\Debug\uri_1014.pdb

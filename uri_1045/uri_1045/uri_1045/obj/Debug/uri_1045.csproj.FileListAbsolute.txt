@@ -1,0 +1,3 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1045\uri_1045\uri_1045\obj\Debug\uri_1045.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1045\uri_1045\uri_1045\obj\Debug\uri_1045.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1045\uri_1045\uri_1045\obj\Debug\uri_1045.csproj.CoreCompileInputs.cache

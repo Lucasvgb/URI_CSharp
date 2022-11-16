@@ -1,0 +1,15 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\bin\Debug\net6.0\uri_1038.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\bin\Debug\net6.0\uri_1038.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\bin\Debug\net6.0\uri_1038.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\bin\Debug\net6.0\uri_1038.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\bin\Debug\net6.0\uri_1038.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\refint\uri_1038.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\uri_1038.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\projetos_CSharp\uri\uri_1038\obj\Debug\net6.0\ref\uri_1038.dll
